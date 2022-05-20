@@ -1,0 +1,13 @@
+body{
+  margin: 0;
+}
+.box-1{
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  font-family: sans-serif;
+  
+}
+.box-1 h1 {
+  border-bottom: 1px solid black;
+}
